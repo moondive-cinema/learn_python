@@ -1,3 +1,4 @@
 # learn_python
-codes for learning and practicing python \n
+codes for learning and practicing python 
+
 Hello World!
